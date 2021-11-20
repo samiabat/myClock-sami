@@ -1,2 +1,2 @@
-# myClock-sami
-# i can do any thing here.
+# my clock projects
+# my first software engineering project
